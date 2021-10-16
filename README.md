@@ -52,6 +52,8 @@ Producing and Distributing the right goods:
 
 
 
+
+
 ## STP Analysis
 
 The STP Model consists of three steps that help you analyze your offering and the way you communicate its benefits and value to specific groups.
@@ -63,6 +65,8 @@ STP stands for:
 - Step 3: **P**osition your offering.
 
 This model is useful because it helps you identify your most valuable types of customer, and then develop products and marketing messages that ideally suit them. This allows you to engage with each group better, personalize your messages, and sell much more of your product.
+
+
 
 ## Applying the STP Model
 
