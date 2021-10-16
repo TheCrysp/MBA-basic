@@ -153,3 +153,15 @@ Maslow's hierarchy of needs is a theory by [Abraham Maslow](https://www.thoughtc
 - In this theory, higher needs in the hierarchy begin to emerge when people feel they have sufficiently satisfied the previous need.
 - Although later research does not fully support all of Maslow’s theory, his research has impacted other psychologists and contributed to the field of positive psychology.
 
+
+
+
+
+# SWOT Analysis
+
+What is a SWOT analysis? SWOT stands for Strengths, Weaknesses, Opportunities, and Threats, and so a SWOT analysis is a technique for assessing these four aspects of your business.
+
+SWOT Analysis is a simple tool that can help you to analyze what your company does best right now, and to devise a successful strategy for the future. SWOT can also reveal areas of the business that are holding you back, or that your competitors could exploit if you don't protect yourself.
+
+![SWOT analysis - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/1200px-SWOT_en.svg.png)
+
