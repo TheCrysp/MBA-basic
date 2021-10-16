@@ -143,8 +143,6 @@ To use the model, start by segmenting your market into groups. Next, choose whic
 
 Maslow's hierarchy of needs is a theory by [Abraham Maslow](https://www.thoughtco.com/abraham-maslow-quotes-2795686), which puts forward that people are motivated by five basic categories of needs: physiological, safety, love, esteem, and self-actualization.
 
-<iframe frameborder="0" src="https://aa2f725361fb5b4385e10dfb39982636.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/479/thoughtco/tho_psychology/billboard_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="2" data-load-complete="true" style="box-sizing: inherit; margin: 0px auto; padding: 0px; border: 0px; font-size: 17px; font-weight: 400; vertical-align: bottom; background: 0px 0px;"></iframe>
-
 
 
 ### Key Takeaways: Maslow’s Hierarchy of Needs
@@ -164,4 +162,68 @@ What is a SWOT analysis? SWOT stands for Strengths, Weaknesses, Opportunities, a
 SWOT Analysis is a simple tool that can help you to analyze what your company does best right now, and to devise a successful strategy for the future. SWOT can also reveal areas of the business that are holding you back, or that your competitors could exploit if you don't protect yourself.
 
 ![SWOT analysis - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/1200px-SWOT_en.svg.png)
+
+
+
+
+
+# 4Ps of Marketing
+
+![The 4 Ps of Marketing: A Step-by-Step Guide (With Examples)](https://neilpatel.com/wp-content/uploads/2020/06/4-ps-of-marketing-visualization.png)
+
+The four Ps of marketing are the key factors that are involved in the marketing of a good or service. They are the product, price, place, and promotion of a good or service. Often referred to as the[ marketing mix](https://www.investopedia.com/terms/m/marketing-mix.asp), the four Ps are constrained by internal and external factors in the overall business environment, and they interact significantly with one another.
+
+The 4 Ps of marketing is a marketing is a concept that summarizes the four basic pillars of any marketing strategy.
+
+The four Ps of marketing are:
+
+- **Product:** What you sell. Could be a physical good, services, consulting, etc.
+- **Price:** How much do you charge and how does that impact how your customers view your brand?
+- **Place**: Where do you promote your product or service? Where do your ideal customers go to find information about your industry?
+- **Promotion**: How do your customers find out about you? What strategies do you use, and are they effective?
+
+## Why do you prefer Starbucks coffee?
+
+**Product**
+
+- Variety
+- Quality
+- Design 
+- Brand name
+- Packaging
+
+**Place**
+
+- Channel
+- Coverage
+- Location
+- Transport
+
+**Price**
+
+- List Price
+- Discount Price
+
+**Promotion**
+
+- Advertising
+- Promotion
+- Publicity
+
+
+
+
+
+# 7Ps of Marketing
+
+4 Ps +
+
+- **Physical Evidence:** How we reassure our customers, e.g. impressive buildings, well-trained staff, great website?
+- **Processes:** Are there internal process barriers in the way to delivering the best customer value?
+
+- **People:** Who are our people and are there skills gaps?
+
+![How to use the 7Ps Marketing Mix strategy model?](http://www.smartinsights.com/wp-content/uploads/2014/03/The-7Ps-Marketing-Mix.png)
+
+
 
