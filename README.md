@@ -1,6 +1,4 @@
-# MBA Basic
-
-## What is Marketing
+# What is Marketing
 
 **Old Definition:**
 
@@ -30,7 +28,7 @@ Producing and Distributing the right goods:
 
 
 
-## Demand, Wants and Needs
+# Demand, Wants and Needs
 
 ### Needs
 
@@ -54,7 +52,7 @@ Producing and Distributing the right goods:
 
 
 
-## STP Analysis
+# STP Analysis
 
 The STP Model consists of three steps that help you analyze your offering and the way you communicate its benefits and value to specific groups.
 
@@ -134,3 +132,24 @@ The campaign goes viral and thousands of people send in their photos, which help
 The STP Model helps you position a product or service to target different groups of customers more efficiently. This three-step approach helps you quickly zoom in on the most profitable parts of your business, so that you can fully exploit the opportunities these offer.
 
 To use the model, start by segmenting your market into groups. Next, choose which of these you want to target. Last, identify how you want to position your product, based on the personality and behavior of your target market.
+
+
+
+
+
+# Maslow's Hierarchy of Needs
+
+## ![Maslow's hierarchy of needs, scalable vector illustration](https://www.thoughtco.com/thmb/OPVbpZGAK1P3TQN5HTZsEJ02W3s=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/maslow-s-hierarchy-of-needs--scalable-vector-illustration-655400474-5c6a47f246e0fb000165cb0a.jpg)
+
+Maslow's hierarchy of needs is a theory by [Abraham Maslow](https://www.thoughtco.com/abraham-maslow-quotes-2795686), which puts forward that people are motivated by five basic categories of needs: physiological, safety, love, esteem, and self-actualization.
+
+<iframe frameborder="0" src="https://aa2f725361fb5b4385e10dfb39982636.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/479/thoughtco/tho_psychology/billboard_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="2" data-load-complete="true" style="box-sizing: inherit; margin: 0px auto; padding: 0px; border: 0px; font-size: 17px; font-weight: 400; vertical-align: bottom; background: 0px 0px;"></iframe>
+
+
+
+### Key Takeaways: Maslow’s Hierarchy of Needs
+
+- According to Maslow, we have five categories of needs: physiological, safety, love, esteem, and self-actualization.
+- In this theory, higher needs in the hierarchy begin to emerge when people feel they have sufficiently satisfied the previous need.
+- Although later research does not fully support all of Maslow’s theory, his research has impacted other psychologists and contributed to the field of positive psychology.
+
