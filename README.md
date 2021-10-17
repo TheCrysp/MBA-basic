@@ -293,3 +293,29 @@ In this case, the product has four stages:
 # Profit and loss in Product Life Cycle
 
 ![img](https://marketing-insider.eu/wp-content/uploads/2015/06/Product-Life-Cycle-Stages.jpg)
+
+
+
+
+
+# **Marketing Insight**
+
+# Technology Adoption Curve
+
+
+
+## Diffusion of Innovation Theory
+
+Diffusion of Innovation (DOI) Theory, developed by E.M. Rogers in 1962, is one of the oldest social science theories. It originated in communication to explain how, over time, an idea or product gains momentum and diffuses (or spreads) through a specific population or social system. The end result of this diffusion is that people, as part of a social system, adopt a new idea, behavior, or product.  Adoption means that a person does something differently than what they had previously (i.e., purchase or use a new product, acquire and perform a new behavior, etc.). The key to adoption is that the person must perceive the idea, behavior, or product as new or innovative. It is through this that diffusion is possible.  
+
+Adoption of a new idea, behavior, or product (i.e., "innovation") does not happen simultaneously in a social system; rather it is a process whereby some people are more apt to adopt the innovation than others.  Researchers have found that people who adopt an innovation early have different characteristics than people who adopt an innovation later. When promoting an innovation to a target population, it is important to understand the characteristics of the target population that will help or hinder adoption of the innovation. There are **five established adopter categories**, and while the majority of the general population tends to fall in the middle categories, it is still necessary to understand the characteristics of the target population. When promoting an innovation, there are different strategies used to appeal to the different adopter categories.
+
+1. Innovators - These are people who want to be the first to try the innovation. They are venturesome and interested in new ideas. These people are very willing to take risks, and are often the first to develop new ideas. Very little, if anything, needs to be done to appeal to this population.
+2. Early Adopters - These are people who represent opinion leaders. They enjoy leadership roles, and embrace change opportunities. They are already aware of the need to change and so are very comfortable adopting new ideas. Strategies to appeal to this population include how-to manuals and information sheets on implementation. They do not need information to convince them to change.
+3. Early Majority - These people are rarely leaders, but they do adopt new ideas before the average person. That said, they typically need to see evidence that the innovation works before they are willing to adopt it. Strategies to appeal to this population include success stories and evidence of the innovation's effectiveness.
+4. Late Majority - These people are skeptical of change, and will only adopt an innovation after it has been tried by the majority. Strategies to appeal to this population include information on how many other people have tried the innovation and have adopted it successfully.
+5. Laggards - These people are bound by tradition and very conservative. They are very skeptical of change and are the hardest group to bring on board. Strategies to appeal to this population include statistics, fear appeals, and pressure from people in the other adopter groups.
+
+ 
+
+![Diffusion Of Innovations - Diffusion Of Innovation Clipart (#3199156) -  PinClipart](https://www.pinclipart.com/picdir/middle/319-3199156_diffusion-of-innovations-diffusion-of-innovation-clipart.png)
