@@ -229,19 +229,19 @@ The four Ps of marketing are:
 
 **Stackbucks Continued**
 
-People
+**People**
 
 - Professional
 - Skilled
 - Positive attitude
 
-Process
+**Process**
 
 - Quick Service
 - Customized cup
 - Feedback loop
 
-Physical evidence
+**Physical evidence**
 
 - Modern Furniture
 - Uniform
@@ -273,3 +273,23 @@ The principle suggests that, of the three points of the Iron Triangle, you can o
 
 
 
+# Product life-cycle
+
+ The product life-cycle (PLC) refers to the different stages a product goes through from introduction to withdrawal.
+
+The product life-cycle refers to a likely pathway a product may take. It has implications for the marketing strategy of a firm as it seeks to introduce, grow and maintain market share.
+
+![The three phases of a product life cycle | Rompa Group](https://www.rompagroup.com/bestanden/Afbeeldingen/w1100-3957-1/BOL-MOL-EOL.jpg)
+
+In this case, the product has four stages:
+
+1. **Introduction** – when the product is introduced and struggles to gain brand recognition.
+2. **Growth** – advertising and word of mouth helps the product to increase sales. As sales growth, more firms are willing to stock the product which helps the product to grow even further.
+3. **Maturity** – When the product reaches peak market penetration.
+4. **Decline** – the product gets eclipsed by new products
+
+
+
+# Profit and loss in Product Life Cycle
+
+![img](https://marketing-insider.eu/wp-content/uploads/2015/06/Product-Life-Cycle-Stages.jpg)
