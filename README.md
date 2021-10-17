@@ -319,3 +319,52 @@ Adoption of a new idea, behavior, or product (i.e., "innovation") does not happe
  
 
 ![Diffusion Of Innovations - Diffusion Of Innovation Clipart (#3199156) -  PinClipart](https://www.pinclipart.com/picdir/middle/319-3199156_diffusion-of-innovations-diffusion-of-innovation-clipart.png)
+
+
+
+
+
+# BCG Matrix
+
+The Boston Consulting group’s product portfolio matrix (BCG matrix) is designed to help with long-term strategic planning, to help a business consider growth opportunities by reviewing its portfolio of products to decide where to invest, to discontinue or develop products. It's also known as the Growth/Share Matrix.
+
+The Matrix is divided into 4 quadrants based on an analysis of market growth and relative market share, as shown in the diagram below.
+
+![The-Growth-Share-matrix](https://www.smartinsights.com/wp-content/uploads/2013/10/The-Growth-Share-matrix-600x646.png)
+
+
+
+- **1. Dogs:** These are products with low growth or market share.
+- **2. Question marks or Problem Child:** Products in high growth markets with low market share.
+- **3. Stars:** Products in high growth markets with high market share.
+- **4. Cash cows:** Products in low growth markets with high market share
+
+
+
+
+
+# Ansoff Matrix
+
+The Ansoff Matrix, also called the Product/Market Expansion Grid, is a tool used by firms to analyze and plan their strategies for [growth](https://corporatefinanceinstitute.com/resources/knowledge/finance/sustainable-growth-rate/). The matrix shows four strategies that can be used to help a firm grow and also analyzes the risk associated with each strategy. 
+
+![Ansoff Matrix](https://cdn.corporatefinanceinstitute.com/assets/ansoff-matrix.png)
+
+
+
+### Understanding the Ansoff Matrix
+
+The matrix was developed by applied mathematician and business manager, [H. Igor Ansoff,](http://faculty.msb.edu/homak/homahelpsite/webhelp/Content/Growth Matrix - Ansoff Growth Matrix.pdf) and was published in the Harvard Business Review in 1957. The Ansoff Matrix has helped many marketers and executives better understand the risks inherent in growing their business.
+
+ 
+
+The four strategies of the Ansoff Matrix are:
+
+1. **Market Penetration**: This focuses on increasing sales of existing products to an existing market.
+2. **Product Development**: Focuses on introducing new products to an existing market.
+3. **Market Development**: This strategy focuses on entering a new market using existing products.
+4. Diversification: Focuses on entering a new market with the introduction of new products.
+
+Of the four strategies, market penetration is the least risky, while diversification is the riskiest.
+
+ 
+
