@@ -227,3 +227,49 @@ The four Ps of marketing are:
 
 
 
+**Stackbucks Continued**
+
+People
+
+- Professional
+- Skilled
+- Positive attitude
+
+Process
+
+- Quick Service
+- Customized cup
+- Feedback loop
+
+Physical evidence
+
+- Modern Furniture
+- Uniform
+- Sign board
+- Non smoking
+- Kids play area
+
+
+
+
+
+
+
+# The Iron Triangle of Customer Service: Speed, Quality, and Cost
+
+We all know that customers need excellent service, and they want it fast. Is there a way to do it cheaply? The principle of the “Iron Triangle” suggests not:
+
+![img](https://lh6.googleusercontent.com/mJsM0KjHYrxMtdPM0slssji5P5NGdwxnviMnw3nQQEijbO2wXAs-E0WUwIfxgIOioeckqkRWtQbrPo-D8-f_FLuh6pZV5bGCpxzYVk2DQJQuUVL66Xhklpx8pnnUIpc4hfqPbcI6)
+
+
+
+The principle suggests that, of the three points of the Iron Triangle, you can only have two at a time—not three. Think about it:
+
+- If you provide high-quality support quickly, you would expect it to be expensive to do.
+- If you provide quick service by inexpensive means, you might expect it to be of poor quality.
+- When you provide high-quality service but don’t spend a ton of money to do so, you probably expect it to be slow.
+
+
+
+
+
