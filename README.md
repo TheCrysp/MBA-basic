@@ -368,3 +368,10 @@ Of the four strategies, market penetration is the least risky, while diversifica
 
  
 
+# Business Strategy
+
+Master plan that the management of a company implements to secure a competitive position in the market.
+
+- Corporate Level  => Business lines, Expansion and growth, takeovers and mergers, diversification, integration, new areas for investment and divestment and so forth.
+- Business Level  =>  It is developed by the general managers, who convert mission and vision to concrete strategies. It is like a blueprint of the entire business.
+- Functional Level: Developed by the first line managers or supervisors, to solve functional areas like marketing, production, human resources, research and development.
